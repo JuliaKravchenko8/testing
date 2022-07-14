@@ -1,3 +1,18 @@
+:root {
+    --primary-text-color: #212121;
+    --secondary-text-color: #757575;
+    --white-text-color: #FFFFFF;
+    --dark-background: #2F303A;
+    --light-background: #E5E5E5;
+    --gray-background: #F5F4FA;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
+}
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
 }
